@@ -1,0 +1,37 @@
+# Build Results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Test Results
+[Tt]est[Rr]esults/
+*.trx
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+.env.*
+
+# Local Development Settings
+appsettings.Development.json
+appsettings.Local.json
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# NuGet
+*.nupkg

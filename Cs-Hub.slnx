@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Src/">
+    <Project Path="Cs-Hub.Api/Cs-Hub.Api.csproj" />
+    <Project Path="Cs-Hub.Application/Cs-Hub.Application.csproj" />
+    <Project Path="Cs-Hub.Domain/Cs-Hub.Domain.csproj" />
+    <Project Path="Cs-Hub.Infrastructure/Cs-Hub.Infrastructure.csproj" />
+  </Folder>
+</Solution>
